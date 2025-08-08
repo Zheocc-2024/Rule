@@ -1,0 +1,50 @@
+  # =============================
+  # 美国银行核心域名
+  # =============================
+
+  # Bank of America
+  - DOMAIN-SUFFIX,bankofamerica.com
+  - DOMAIN-SUFFIX,bofa.com
+  - DOMAIN-SUFFIX,ml.com         # Merrill Lynch 投资账户
+  - DOMAIN-SUFFIX,about.bankofamerica.com
+
+  # Chase Bank (JPMorgan Chase)
+  - DOMAIN-SUFFIX,chase.com
+  - DOMAIN-SUFFIX,jpmorganchase.com
+  - DOMAIN-SUFFIX,chasecdn.com
+
+  # Citi Bank
+  - DOMAIN-SUFFIX,citi.com
+  - DOMAIN-SUFFIX,citibank.com
+  - DOMAIN-SUFFIX,citibankonline.com
+
+  # Wells Fargo
+  - DOMAIN-SUFFIX,wellsfargo.com
+  - DOMAIN-SUFFIX,wf.com
+
+  # Capital One
+  - DOMAIN-SUFFIX,capitalone.com
+  - DOMAIN-SUFFIX,caponecredit.com
+
+  # American Express
+  - DOMAIN-SUFFIX,americanexpress.com
+  - DOMAIN-SUFFIX,aexp-static.com
+  - DOMAIN-SUFFIX,aexp.com
+
+  # Discover
+  - DOMAIN-SUFFIX,discover.com
+  - DOMAIN-SUFFIX,discovercard.com
+
+  # =============================
+  # 移动端 API / 验证服务
+  # =============================
+
+  - DOMAIN-SUFFIX,onlinebanking.bankofamerica.com
+  - DOMAIN-SUFFIX,secure.bankofamerica.com
+  - DOMAIN-SUFFIX,secure.chase.com
+  - DOMAIN-SUFFIX,mobilebanking.chase.com
+  - DOMAIN-SUFFIX,online.citi.com
+  - DOMAIN-SUFFIX,api.wellsfargo.com
+  - DOMAIN-SUFFIX,secure.capitalone.com
+  - DOMAIN-SUFFIX,api.discover.com
+  - DOMAIN-SUFFIX,secure.americanexpress.com
